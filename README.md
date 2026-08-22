@@ -8,14 +8,6 @@ Backend developer specializing in Java and Spring Boot, with prior experience in
 
 ---
 
-## Connect with me 👽
-
-<a href="https://www.linkedin.com/in/lautaromoreyra/"><img width="52" src="https://api.iconify.design/simple-icons/linkedin.svg?color=black" /></a>
-&nbsp;&nbsp;
-<a href="mailto:lautaromoreyrar@gmail.com"><img width="52" src="https://api.iconify.design/simple-icons/gmail.svg?color=black" /></a>
-
----
-
 ## 🛠️ Technologies
 
 #### Languages
