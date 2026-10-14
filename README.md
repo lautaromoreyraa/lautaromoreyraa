@@ -65,16 +65,6 @@ UTN — Universidad Tecnológica Nacional (FRRe) <br>
 
 ---
 
-## 🚀 Featured Projects
-
-**ByteBooks** — REST API built with Java and Spring Boot, using layered architecture and data persistence. In production.
-[Repository](https://github.com/lautaromoreyraa/bytebooks-api) · [Demo](https://bytebooks-frontend-iocp.vercel.app)
-
-**Oriente** — Design and deployment of the backend for a functional wellness-business platform. In production.
-[Repository](https://github.com/lautaromoreyraa/oriente-api) · [Demo](https://orientercia.com.ar)
-
----
-
 ## 🤝 Let's Connect
 
 I'm open to collaborating on projects and educational content. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/lautaromoreyra/), [GitHub](https://github.com/lautaromoreyraa), or [email](mailto:lautaromoreyrar@gmail.com).
